@@ -16,11 +16,11 @@ Students from any discipline can use Studify to consolidate information from var
 
 Steps listed below assume you have the necessary dependencies (e.g., Flutter, XCode, Android Studio, VSCode) installed. To confirm, please run: `flutter doctor`.
 
-To install the necessary Flutter packages locally, run:
+To install the necessary Flutter packages locally, run:  
 `flutter clean`  
 `flutter pub get`  
-
-Then to launch the app, run:
+  
+Then to launch the app, run:  
 `open -a simulator`  
 `flutter run`  
 
