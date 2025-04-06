@@ -17,14 +17,28 @@ Students from any discipline can use Studify to consolidate information from var
 Steps listed below assume you have the necessary dependencies (e.g., Flutter, XCode, Android Studio, VSCode) installed. To confirm, please run: `flutter doctor`.
 
 To install the necessary Flutter packages locally, run:
-- flutter clean
-- flutter pub get
+`flutter clean` 
+`flutter pub get` 
 
 Then to launch the app, run:
-- open -a simulator
-- flutter run
+`open -a simulator` 
+`flutter run` 
 
 If you wish to launch the web app, run: `flutter run -d chrome`.
+
+
+## Demo 💡
+
+#### User Login, Note Taking, and Accessibility Settings
+
+
+#### Pomodoro Timer, Task Scheduling, AI-Math Animations, and Academic References
+
+
+#### Quizzes & Flashcards, Calender, Profile
+
+
+Please note, I did not demo the generation of AI-math animations nor quizzes and flashcards, as it takes a lil while and GitHub's readme-embedded videos need to be a certain size so I can't have the videos be too long :3
 
 
 ## Team members 💻
