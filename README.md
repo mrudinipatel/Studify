@@ -33,12 +33,12 @@ If you wish to launch the web app, run: `flutter run -d chrome`.
 https://github.com/user-attachments/assets/81f60f06-b40a-4e9e-a9b2-cb926fca6409
 
 #### Pomodoro Timer, Task Scheduling, AI-Math Animations, and Academic References
-
+https://github.com/user-attachments/assets/ae162fd1-cf33-4716-b27a-75af805e8dd3
 
 #### Quizzes & Flashcards, Calender, Profile
+https://github.com/user-attachments/assets/b4f10c91-317e-45ea-89d2-59af42eba7a7
 
-
-Please note, I did not demo the generation of AI-math animations nor quizzes and flashcards, as it takes a lil while and GitHub's readme-embedded videos need to be a certain size so I can't have the videos be too long :3
+Please note: I did not demo the generation of AI-math animations nor quizzes and flashcards, as it takes a lil while and GitHub's readme-embedded videos need to be a certain size so I can't have the videos be too long :3
 
 
 ## Team members 💻
