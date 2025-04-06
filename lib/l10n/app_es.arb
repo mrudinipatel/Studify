@@ -1,0 +1,8 @@
+{
+  "@@locale": "es",
+  "settings": "Configuraciones",
+  "generalSettings": "Configuraciones generales",
+  "accessibilitySettings": "Configuraciones de accesibilidad",
+  "languageSettings": "Configuraciones de idioma",
+  "selectLanguage": "Seleccionar idioma"
+}

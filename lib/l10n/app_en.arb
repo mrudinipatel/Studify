@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "generalSettings": "General Settings",
+  "accessibilitySettings": "Accessibility Settings",
+  "languageSettings": "Language Settings",
+  "selectLanguage": "Select Language"
+}
