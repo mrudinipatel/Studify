@@ -30,7 +30,7 @@ If you wish to launch the web app, run: `flutter run -d chrome`.
 ## Demo 💡
 
 #### User Login, Note Taking, and Accessibility Settings
-
+https://github.com/user-attachments/assets/81f60f06-b40a-4e9e-a9b2-cb926fca6409
 
 #### Pomodoro Timer, Task Scheduling, AI-Math Animations, and Academic References
 
